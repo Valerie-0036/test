@@ -1,0 +1,22 @@
+git = to coord with a team, and track changes in the file
+git init
+git push
+git pull
+git config
+
+git config --global user.name "Valerie-0036"
+git config --global user.email "valerie.535210036@stu.untar.ac.id"
+
+bisa push dr github lgsg atau mw terminal
+https://www.youtube.com/watch?v=vbQ2bYHxxEA
+
+git push -m message
+---
+pull and push:
+view--> command pallette --> clone git
+
+copaste the html clone
+
+https://www.youtube.com/watch?v=VNNChXqF390
+https://www.youtube.com/watch?v=9oKFPTtyHZg
+remember to send a message
